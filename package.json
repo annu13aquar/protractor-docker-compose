@@ -1,0 +1,14 @@
+{
+  "name": "selenium-grid",
+  "version": "1.0.0",
+  "description": "selenium grid with protractor and docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "annu",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^5.4.0"
+  }
+}
